@@ -1,0 +1,12 @@
+
+#---- Hugo
+hugo/public/
+hugo/resources/
+
+#---- 3rd party packages installed with Node/NPM
+node_modules/
+
+#---- IDE Settings (VSCode, IntelliJ)
+.vscode/
+.idea/
+/*.iml
