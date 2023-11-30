@@ -1,0 +1,17 @@
+{{- $max := .Get "max" | default 6 }}
+
+{{- $today := time.Now | time.Format "2006-01-02" }}
+{{- $events_all := where $.Site.RegularPages.ByDate.Reverse "Section" "events" }}
+{{- $events_current := where $events_all "Params.date-end" "ge" $today }}
+  <ul>
+    {{- range $events_current | first $max | collections.Reverse }}
+    <li>
+      <a href="{{ .RelPermalink }}" class="no-decoration">
+        <span style="font-size:85%;">{{ .Param "date-start" }}
+          {{- if ne (.Param "date-start") (.Param "date-end") }} → {{.Param "date-end"}}
+          {{- end }}:</span>
+        <br>{{ .Title }}</a>
+    </li>
+    {{- end }}
+    <li><a href="{{ ref .Page "/events" }}" class="no-decoration">more ...</a></li>
+  </ul>

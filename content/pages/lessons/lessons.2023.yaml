@@ -1,0 +1,26 @@
+# ----------------------------------------------------------------------
+# - For YAML files
+#   - Number of entries per row should equal number of columns in table
+#   - Use "" for empty values.
+#   - Use quotes for "values, that, contain, commas"
+#   - Use quotes for "values with this # character"
+# ----------------------------------------------------------------------
+- [March 6 2023, The Najdorf Defence]
+- [March 13 2023, The Grunfeld Defence]
+- [March 20 2023, The Ragozin Defence]
+- [March 27 2023, Classroom Clash]
+- [April 3 2023, The Pawn]
+- [April 10 2023, Easter Monday]
+- [April 17 2023, The Bishop]
+- [April 24 2023, The Knight]
+- [May 1 2023, The Rook]
+- [May 8 2023, The Queen]
+- [May 15 2023, The King]
+- [May 22 2023, Victoria Day]
+- [May 29 2023, Accelerated Moveorders]
+- [June 5 2023, Classroom Clash]
+- [June 12 2023, Analyze Your Games!]
+- [June 19 2023, Medals & Chess Puzzles & Doubles]
+- [June 26 2023, Responding to e4]
+- [July 3 2023, Responding to d4]
+- [July 10 2023, Responding to c4]

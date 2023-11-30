@@ -1,0 +1,27 @@
+---
+url: /contact/
+title: Contact Us
+---
+
+### Common Inquiries
+We receive many common inquiries, please check the pages below to see if it answers your question.
+Feel free to contact us if they do not answer your question</p>
+
+- [I want to play chess at the club, do you have details?](/)
+- [I want to play more chess outside the club, where can I go?](/links/)
+- [I want to volunteer](/volunteers/)
+
+### Mississauga Chess Club Poster
+{{% figure src="/pics/MCCChessPoster.jpg"
+    caption="Designed by Faustine Liu" %}}
+
+### More resources
+The club maintains a list of external resources which you may access at any time.
+They are all free, and provide more ways to play and learn chess.
+We are not responsible for the content on any of these sites.
+[ACCESS HERE](/links/)
+
+### Have any other questions?
+- Visit us on Monday and Wednesday nights at [Erindale United Church](/location/)
+- Email us at: [mississaugachessclub@gmail.com](mailto:mississaugachessclub@gmail.com)
+- Follow us on [Facebook](https://www.facebook.com/groups/375896684513470)

@@ -1,0 +1,13 @@
+name = "bnc-blog"
+license = "MIT"
+description = "Theme for BareNakedCoder.com"
+min_version = "0.53"
+
+[author]
+  name = "Don Parakin"
+  homepage = "https://www.barenakedcoder.com"
+
+[original]
+  name = "Emiel Hollander"
+  homepage = "https://www.emielhollander.nl"
+  repo = "https://github.com/EmielH/tale-hugo"

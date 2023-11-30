@@ -1,0 +1,26 @@
+{
+  "name": "codeboy.dev",
+  "version": "1.0.0",
+  "description": "CodeBoy.dev Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hugo:build": "hugo --cleanDestinationDir",
+    "hugo:serve": "hugo server --panicOnWarning --disableFastRender",
+    "hugo:config": "hugo config",
+    "hugo:version": "hugo version",
+    "npm:install": "npm install"
+  },
+  "author": "Don Parakin",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "alpinejs": "*",
+    "bulma": "*",
+    "htmx.org": "*",
+    "hugo-extended": "0.120.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/parakin/codeboy_www.git"
+  }
+}

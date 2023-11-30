@@ -1,0 +1,9 @@
+{{- range .Site.Menus.main }}
+    <li><a href="{{ .URL | relURL }}">
+{{- if eq .URL "/disabled-for-now" }}
+    <span class="icon"><i class="fas fa-home"></i></span>
+{{- else }}
+    {{- .Name }}
+{{- end -}}
+</a></li>
+{{- end }}

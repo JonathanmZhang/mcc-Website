@@ -1,0 +1,32 @@
+{{- define "main" }}
+{{- $home_bundle := $.Site.GetPage "page" "/home"}}
+  <main id="home" class="container content pad-sides-for-mobile" style="margin-top:1rem;">
+    {{- with $home_bundle.Resources.GetMatch "row-1.md" }}
+      {{ .Content }}
+    {{- end }}
+    <div class="ws-home-grid columns is-multiline">
+      <div class="column is-4-desktop is-12-tablet is-12-mobile">
+        {{- with $home_bundle.Resources.GetMatch "row-2-col-1.md" }}
+          {{- .Content }}
+        {{- end }}
+      </div>
+      <div class="column is-4-desktop is-6-tablet is-12-mobile">
+        {{- with $home_bundle.Resources.GetMatch "row-2-col-2.md" }}
+          {{- .Content }}
+        {{- end }}
+      </div>
+      <div class="column is-4-desktop is-6-tablet is-12-mobile">
+        {{- with $home_bundle.Resources.GetMatch "row-2-col-3.md" }}
+          {{- .Content }}
+        {{- end }}
+      </div>
+    </div>
+    <div class="ws-home-grid columns is-multiline">
+      <div class="column">
+        {{- with $home_bundle.Resources.GetMatch "row-3.md" }}
+          {{- .Content }}
+        {{- end }}
+      </div>
+    </div>
+  </main>
+{{ end }}

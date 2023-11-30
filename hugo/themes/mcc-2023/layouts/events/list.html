@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{- $today := time.Now | time.Format "2006-01-02" }}
+{{- $events_current := where (.Data.Pages.ByDate) "Params.date-end" "ge" $today }}
+{{- $events_past := where (.Data.Pages.ByDate.Reverse) "Params.date-end" "lt" $today }}
+  <main id="list" class="events-list container content pad-touch-only">
+    <h1>{{ .Title }}</h1>
+    <table class="table is-hoverable is-narrow events-list" style="">
+      <thead>
+        <tr><th>Starts</th><th>Ends</th><th>Event</th></tr>
+      </thead>
+      {{- range $events_current }}
+        <tr>
+          <td>{{ with .Param "date-start" }}{{. | time.Format "Jan 2, 2006"}}{{ end }}</td>
+          <td>{{ with .Param "date-end" }}{{. | time.Format "Jan 2, 2006"}}{{ end }}</td>
+          <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        </tr>
+      {{- end }}
+        <tr><td colspan="3">&nbsp;</td></tr>
+        <tr><td colspan="3" class="table-subtitle">PAST EVENTS</td></tr>
+      {{- range $events_past }}
+        {{- $start := "" }}
+      <tr>
+        <td>{{ with .Param "date-start" }}
+          {{- $start = . | time.Format "2006-01-02" }}
+          {{- . | time.Format "Jan 2, 2006"}}
+          {{- end }}</td>
+        <td>{{ with .Param "date-end" }}
+          {{- $end := . | time.Format "2006-01-02" }}
+          {{- if eq $start $end }} = {{ else }}
+          {{- . | time.Format "Jan 2, 2006" }}
+          {{- end }}{{- end }}</td>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      </tr>
+      {{- end }}
+      <tbody>
+      </tbody>
+    </table>
+  </main>
+
+  <style>
+    table.events-list tr td:nth-child(1) { width: 10rem; }
+    table.events-list tr td:nth-child(2) { width: 10rem; }
+  </style>
+{{ end }}

@@ -1,0 +1,45 @@
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <title>
+  {{- with .Page.Title }}{{ . }}
+  {{- with $.Page.Params.supertitle }} - {{ .|safeHTML }}{{ end }}
+  {{- with $.Page.Params.subtitle }} - {{ .|safeHTML }}{{ end }}
+  {{- end -}}
+  </title>
+  <meta name= "author" content= "
+    {{- with .Params.author }}{{.}}{{ else }}{{ $.Site.Params.author }}{{ end -}}">
+  <meta name="description" content="
+    {{- trim (plainify .Summary) " \n" | safeHTML -}}">
+  {{ hugo.Generator }}
+
+{{- with .OutputFormats.Get "rss"}}{{/* FIX: it escapes the valid + in type; safeHTMLAttr not work */}}
+  {{ printf "<link rel=%q href=%q title=%q type=%q/>" .Rel .Permalink $.Site.Title .MediaType.Type | safeHTML }}
+{{- end }}
+
+{{- with $.Page.Params.page_css }}
+  <style>
+{{ . | safeCSS }}
+  </style>
+{{- end }}
+
+{{- /* <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito|Oswald:600&display=swap"> */}}
+{{- /* <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" crossorigin="anonymous"> */}}
+
+{{- $opts := (dict
+    "outputStyle" "compressed"
+    "includePaths" (slice "node_modules")
+ ) }}
+{{- $style := resources.Get "style-2023/site.scss" | resources.ToCSS $opts | resources.Fingerprint }}
+  <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+  <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+{{- /* ---------------- JavaScript ---------------- */}}
+{{- $minifyJS := true }}
+{{- $js_opts := (dict "format" "iife" "target" "es2017" "minify" $minifyJS) }}
+{{- $main_js := resources.Get "style-2023/site.js" | js.Build $js_opts | resources.Fingerprint }}
+  <script defer src="{{ $main_js.RelPermalink }}"></script>

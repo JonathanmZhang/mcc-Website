@@ -1,0 +1,137 @@
+[x-cloak] { display: none !important; }
+.pad-sides-for-mobile { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+#ws-topnav {
+  & .navbar-item, .navbar-link {
+    color: $cs-p70; font-family: $family-serif; }
+  background-color: transparent;
+  background: url("data:image/gif;base64,R0lGODdhAQASAPEAAINoSSBfSslFJslFJiH5BAEAAAIALAAAAAABABIAAAIFhI8mewUAOw==") repeat-x;
+  padding-top: 18px; margin-bottom: 1rem;
+  .ws-topnav-title { font-size: 2rem; span { font-size: 50%; } }
+  border-bottom: 1px solid $cs-p30;
+}
+
+footer { min-height:3rem; margin-top:6rem !important;
+  border-top:1px solid $cs-p30; }
+
+.ws-home-grid {
+  max-height: 32rem; margin-top:1rem;
+  & > div { border-top:1px solid #ddd; }
+  & > div:nth-child(2) {
+    border-left:1px solid #ddd;
+    @include widescreen { border-left:0; }
+  }
+  & > div:nth-child(3) {
+    border-left:1px solid #ddd;
+    @include mobile { border-left:0; }
+  }
+}
+
+.ws-horizontal-rule {
+  & > div { margin:1rem 2rem; border-top:1px solid #ccc; }
+}
+
+#ws-top-nav2 {
+  color: $cs-p70; font-family: $family-serif;
+  background: url("/img/border.12-3-3.gif") repeat-x;
+  padding-top: 20px; margin-bottom: 1rem;
+  display: flex; flex-flow: row nowrap;
+  & > div { flex: 0; padding-right: 1rem; }
+  div:nth-child(1) { font-size: 2rem; & > span { font-size: 50%; } }
+  div:nth-child(2) { flex: 99; }
+  div:nth-child(n+3) { padding-top: 0.5rem; }
+  div:nth-child(3) { img { min-width: 20px; } }
+  div:last-child { padding-right: 0; }
+  xxxdiv { border: 1px solid #f44; }
+}
+#ws-top-navxxx {
+  font-family: $family-serif;
+  color: $cs-p70;
+  & > div {
+    background: url("/img/border.12-3-3.gif") repeat-x;
+    padding-top: 20px;
+  }
+  .xxxnavbar-brand > .navbar-item {
+    padding: 0;
+  }
+  margin-bottom: 1rem;
+}
+
+.ws-toc {
+  fieldset {
+    border:2px solid $cs-p30;
+    padding: 0.5rem 0.5rem 1rem 1rem;
+    @include browsers(border-radius, 12px);
+    legend {
+      color: $cs-p70; font-size: .8rem; font-weight: bold;
+      padding: 0 .5rem; margin-left: .5rem;
+    }
+
+    font-size:90%; width:100%; margin:0;
+    ul { margin:0; }
+    & nav ul {
+      list-style:outside none;
+      color:#666; font-size:.8rem; xxxfont-weight:bold;
+      & ul {
+        & li { padding-left:14px; text-indent:-14px; }
+        & li:before { content: "\2013\00a0"; }  // see https://css-tricks.com/snippets/html/glyphs/
+      }
+      a { border:none; color:#666; }
+    }
+  }
+  @media screen and (max-width:640px) {
+    margin: 0 0 1rem 0;
+    width:100%;
+  }
+  @media screen and (min-width:641px) {
+    float:right; max-width:50%; min-width:240px;
+    margin: 0 0 1rem 1rem;
+  }
+}
+
+//---- For Code
+.highlight { margin-bottom:1rem; background-color: #aaa; }
+code { background-color: transparent; }
+
+//---- Home Page
+.ws-blog-list {
+  h1 { font-size:1.4rem; border-top: 1px solid $cs-p30; margin-bottom:.25rem; }
+  & > .ws-byline { margin-bottom:.25rem !important; }
+  & > a > button {
+    color:$cs-p50; font-size:0.75rem;
+    border-radius:8px; border:hidden;
+    background-color:$cs-p20; cursor: pointer;
+    padding:0.25rem 0.5rem; margin-top:0.25rem;
+  }
+}
+
+.content {
+  a { background-color: $cs-p15; border-bottom: 1px dashed $cs-p30;
+    padding-left:4px; padding-right:4px; }
+  a:hover { cursor: pointer; background-color: $cs-p20; }
+  a:active { }
+  a:visited { background-color: $cs-p10; }
+  h2 { font-size:1.5rem; border-top:1px solid $cs-p30; }
+  h3 { font-size:1.2rem; }
+  h4 { font-size:1rem; }
+}
+.xxxws-content {
+  @include desktop {
+    padding-left: 4rem;
+    h1, h2, h3, h4 { margin-left: -4rem; }
+  }
+}
+
+.content a.no-decoration { background-color: $body-background-color; border-bottom:0; padding-left:0; }
+.table-subtitle { background-color: $cs-p20; font-weight: bold; }
+.swisssys-report thead tr { background-color: $cs-p20; font-weight: bold; }
+
+/* https://stackoverflow.com/questions/31765221/img-inside-figure-wrong-size */
+img[width], img[height] { max-width: none; }
+
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+.btest {
+  background-image: url("/img/border.4-2-2.gif");
+  background-repeat: repeat-x;
+  padding-top: 8px;
+}

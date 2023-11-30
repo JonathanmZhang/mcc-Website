@@ -1,0 +1,11 @@
+{{- /*
+Shortcode: show-until
+- Creates a div element with code to make Javascript show/hide it
+  depending on the date at run-time (not build-time).
+*/}}
+
+{{- $show_end := .Get 0 | default "" }}
+{{- $show_start := .Get 1 | default "" }}
+<div x-show="today_in('{{ $show_start }}','{{ $show_end }}')">
+{{ .Inner }}
+</div>

@@ -1,0 +1,34 @@
+#-----------------------------------------------------------------------
+# Site:  MississaugaChessClub.ca
+#-----------------------------------------------------------------------
+baseURL: https://www.mississaugachessclub.ca/
+title: Mississauga Chess Club (config)
+
+theme: mcc-2023
+
+#---- See config/_default/module.toml for more settings
+#contentDir: "content"
+
+enableRobotsTXT: true
+defaultContentLanguage: en
+disablePathToLower: true
+
+frontmatter:
+  #---- if file is yyyy-mm-dd-post-my-slug.md, date is from file name
+  date: [ ':filename',  ':default' ]
+
+permalinks:
+  events: /events/:year/:slug
+  news: /news/:year/:month-:day-:slug
+
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 4
+    ordered: false

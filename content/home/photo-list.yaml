@@ -1,0 +1,9 @@
+#-----------------------------------------------------------------------
+#-----------------------------------------------------------------------
+- asset: people/billy-bob.jpg
+  caption: Billy-Bob
+  date-end: 2023-12-31
+- asset: people/peggy-sue.jpg
+  caption: Peggy-Sue
+  date-start: 2023-12-01
+  date-end: 2023-12-31

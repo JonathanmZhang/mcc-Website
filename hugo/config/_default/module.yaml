@@ -1,0 +1,22 @@
+hugoVersion:
+  extended: true
+
+mounts:
+  - source: ../content
+    target: content
+  - source: ../content/assets
+    target: assets
+  - source: ../content/static
+    target: static
+  - source: ../data
+    target: data
+  - source: static
+    target: static
+  - source: layouts
+    target: layouts
+  - source: assets
+    target: assets
+  - source: i18n
+    target: i18n
+  - source: archetypes
+    target: archetypes

@@ -1,0 +1,21 @@
+{{- /*
+Shortcode: image
+- insert an image using HTML used by our CSS framework (Bulma.io)
+- Parameters:
+  - src:  URL of the image file.
+  - caption:
+*/}}
+{{- $src := .Get "src" }}
+{{- $caption := .Get "caption" }}
+{{- $width := .Get "width" }}
+{{- $height := .Get "height" }}
+<div class="is-inline-block mb-4">
+  <img src="{{ $src }}"
+    {{- with $width }} style="max-width:{{.}}px; height:auto"
+    {{- else}}
+      {{- with $height }} style="max-height:{{.}}px; width:auto"{{- end}}
+    {{- end}}>
+  {{- with $caption}}
+  <figcaption style="text-align:center;">{{ markdownify .}}</figcaption>
+  {{- end }}
+</div>

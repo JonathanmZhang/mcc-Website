@@ -1,0 +1,28 @@
+{{- /*
+Shortcode: swisssys-report
+- Embeds a report created by the SwissSys pairings program.
+- Report file must be placed in the same directory as the event's page.
+- Example uses in the page's markdown:
+  - {{< swisssys-report "foo.html" >}}
+- Developer notes:
+  - Report file is expected to be a complete HTML page.
+  - Shortcode will grab everything inside the <BODY> tags
+    and will change `id="swisssys"` to `class="swisssys"`
+    (since the page may contain more than one SwissSys reports).
+*/}}
+
+{{- $filename := .Get 0 | default "" }}
+<div class="swisssys-report">
+{{- with .Page.Resources.GetMatch $filename }}
+  {{- $html_all := .Content }}
+  {{- $tables_all := findRE `(?i:<table)(?s:.*?)(?i:</table>)` $html_all }}
+  {{- with index $tables_all 0 }}
+    {{- $html := . | replaceRE "(?i:<table)" "<TABLE class=\"table is-narrow is-hoverable\"" }}
+    {{- $html | safeHTML }}
+  {{- else }}
+    <p style="background-color:#fdd;">ERROR: &lt;table> not found in report "{{ $filename }}"
+  {{- end }}
+{{- else }}
+  <p style="background-color:#fdd;">ERROR: Report name pattern not found: "{{ $filename }}"</p>
+{{- end }}
+</div>

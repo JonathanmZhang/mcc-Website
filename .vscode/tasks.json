@@ -1,0 +1,40 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "hugo:serve",
+			"path": "hugo",
+			"problemMatcher": [],
+			"label": "npm run hugo:serve - run website in http://localhost"
+		},
+		{
+			"type": "npm",
+			"script": "hugo:build",
+			"path": "hugo",
+			"problemMatcher": [],
+			"label": "npm run hugo:build - build website into ./hugo/public"
+		},
+		{
+			"type": "npm",
+			"script": "hugo:version",
+			"path": "hugo",
+			"problemMatcher": [],
+			"label": "npm run hugo:version - show version of Hugo"
+		},
+		{
+			"type": "npm",
+			"script": "hugo:config",
+			"path": "hugo",
+			"problemMatcher": [],
+			"label": "npm run hugo:config - show all of Hugo's config value"
+		},
+		{
+			"type": "npm",
+			"script": "npm:install",
+			"path": "hugo",
+			"problemMatcher": [],
+			"label": "npm install - install packages required by this website"
+		}
+	]
+}
