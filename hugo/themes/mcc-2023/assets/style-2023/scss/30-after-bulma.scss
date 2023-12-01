@@ -124,10 +124,25 @@ code { background-color: transparent; }
 
 .content a.no-decoration { background-color: $body-background-color; border-bottom:0; padding-left:0; }
 .table-subtitle { background-color: $cs-p20; font-weight: bold; }
-.swisssys-report thead tr { background-color: $cs-p20; font-weight: bold; }
 
 /* https://stackoverflow.com/questions/31765221/img-inside-figure-wrong-size */
 img[width], img[height] { max-width: none; }
+
+
+//---- For SwissSys Reports
+.swisssys-report {
+  table {border-collapse: collapse; border: 1px solid black; }
+  table thead tr td, table tbody tr td {padding: 3px; border: 1px solid black; }
+  .fixed {font-family:Arial;  color:#000000; background-color:#E8E8E8; font-weight: bold; }
+  .name {font-family:Arial;  color:#000000; font-weight: bold; }
+  .idnum {font-family:Arial;  color:#000000; }
+  .rating {font-family:Arial;  color:#000000; }
+  .team {font-family:Arial;  color:#000000; }
+  .age {font-family:Arial;  color:#000000; }
+  .result {font-family:Arial;  color:#000000; }
+  .total {font-family:Arial;  color:#000000; }
+  .ties {font-family:Arial;  color:#000000; }
+}
 
 //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 .btest {

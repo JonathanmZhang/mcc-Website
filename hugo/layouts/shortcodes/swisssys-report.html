@@ -6,7 +6,7 @@ Shortcode: swisssys-report
   - {{< swisssys-report "foo.html" >}}
 - Developer notes:
   - Report file is expected to be a complete HTML page.
-  - Shortcode will grab everything inside the <BODY> tags
+  - Shortcode will grab the TABLE tag (and children)
     and will change `id="swisssys"` to `class="swisssys"`
     (since the page may contain more than one SwissSys reports).
 */}}
@@ -17,7 +17,7 @@ Shortcode: swisssys-report
   {{- $html_all := .Content }}
   {{- $tables_all := findRE `(?i:<table)(?s:.*?)(?i:</table>)` $html_all }}
   {{- with index $tables_all 0 }}
-    {{- $html := . | replaceRE "(?i:<table)" "<TABLE class=\"table is-narrow is-hoverable\"" }}
+    {{- $html := . | replaceRE "(?i:id=)" "class=" }}
     {{- $html | safeHTML }}
   {{- else }}
     <p style="background-color:#fdd;">ERROR: &lt;table> not found in report "{{ $filename }}"
