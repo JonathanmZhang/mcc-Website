@@ -1,7 +1,7 @@
 ---
-title: 2023 Mississauga Chess Club Championship
-date-start: 2023-08-30
-date-end: 2023-10-04
+title: 2022 Mississauga Chess Club Championship
+date-start: 2022-10-05
+date-end: 2022-11-09
 ---
 
 Jump to [Crown Section](#crown-section), [Reserve Section](#reserve-section)
