@@ -6,13 +6,13 @@ title: Schedule - 2023
 Jump to [Adults-Wednesday](#adults---wednesday), [Youth-Monday](#youth---monday), [Youth-Friday](#youth---friday).
 
 ### Adults - Wednesday
-{{< table thead="Date|Tournament|Time Control|Round|# of Rounds" data="2023/adult.wednesday.yaml" table_class="schedule" >}}
+{{< csv-to-table data="2023Wednesday.csv" table_class="schedule" >}}
 
 ### Youth - Monday
-{{< table thead="Date|Tournament|Round" data="2023/youth.monday.yaml" table_class="monday" width="600px">}}
+{{< csv-to-table data="2023Monday.csv" table_class="monday" width="600px">}}
 
 ### Youth - Friday
-{{< table thead="Date|Tournament|Time Control|Round|# of Rounds" data="2023/youth.friday.yaml" table_class="schedule" >}}
+{{< csv-to-table data="2023Friday.csv" table_class="schedule" >}}
 
 
 <style>

@@ -1,0 +1,28 @@
+{{- /*
+Shortcode: csv-to-table
+- Create an HTML table using data from a CSV file with headers in top row.
+*/}}
+{{- $data := .Get "data" }}
+{{- $table_class := .Get "table_class" }}
+{{- $width := .Get "width"}}
+{{- $data_csv := $.Page.Resources.GetMatch $data | unmarshal (dict "comment" "#") }}
+<table class="table is-hoverable is-narrow{{ with $table_class }} {{.}}{{ end }}"
+    {{- with $width }} style="width:{{.}};"{{ end }}>
+{{- range $i, $row := $data_csv }}
+  {{- if eq $i 0 }}
+  <thead>
+    <tr>{{ range $row }}<th>{{.}}</th>{{ end }}</tr>
+  </thead>
+  {{- else }}
+    {{- if eq $i 1 }}
+  <tbody>
+    {{- end }}
+    <tr>
+      {{- range $row }}
+      <td>{{- if eq . "-" }}&ndash;{{ else }}{{ . | markdownify }}{{ end }}</td>
+      {{- end }}
+    </tr>
+  {{- end }}
+  </tbody>
+{{- end }}
+</table>
