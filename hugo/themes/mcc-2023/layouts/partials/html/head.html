@@ -6,10 +6,10 @@
   {{- with $.Page.Params.subtitle }} - {{ .|safeHTML }}{{ end }}
   {{- end -}}
   </title>
-  <meta name= "author" content= "
+  <meta name="author" content= "
     {{- with .Params.author }}{{.}}{{ else }}{{ $.Site.Params.author }}{{ end -}}">
-  <meta name="description" content="
-    {{- trim (plainify .Summary) " \n" | safeHTML -}}">
+  <meta name="description" content= "
+    {{- with .Params.description }}{{.}}{{ else }}{{ $.Site.Params.description }}{{ end -}}">
   {{ hugo.Generator }}
 
 {{- with .OutputFormats.Get "rss"}}{{/* FIX: it escapes the valid + in type; safeHTMLAttr not work */}}
