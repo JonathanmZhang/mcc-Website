@@ -3,6 +3,7 @@ main:
 
 topnav:
   - { weight: 10, name: Home, pageRef: /, pre: '<img src="/img/home.svg" width="20" alt="Home">' }
+  - { weight: 10, name: Pricing, pageRef: /pages/pricing, alt="Pricing">' }
   - { weight: 20, name: Play, pageRef: / }
   - { parent: Play, weight: 21, name: Club Schedule, pageRef: /pages/schedule }
   - { parent: Play, weight: 22, name: Tournaments & Events, pageRef: /events }
