@@ -5,4 +5,4 @@
 
 See the full [News List]({{< relref "/news" >}})
 
-{{< home-news-list max="6" >}}
+{{< home-news-list max="10" >}}
