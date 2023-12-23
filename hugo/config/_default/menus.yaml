@@ -3,7 +3,7 @@ main:
 
 topnav:
   - { weight: 10, name: Home, pageRef: /, pre: '<img src="/img/home.svg" width="20" alt="Home">' }
-  - { weight: 10, name: Pricing, pageRef: /pages/pricing, alt="Pricing">' }
+  - { weight: 10, name: Membership, pageRef: /pages/membership, alt="Membership">' }
   - { weight: 20, name: Play, pageRef: / }
   - { parent: Play, weight: 21, name: Club Schedule, pageRef: /pages/schedule }
   - { parent: Play, weight: 22, name: Tournaments & Events, pageRef: /events }
@@ -12,7 +12,7 @@ topnav:
   - { parent: Play, weight: 28, name: Champions, pageRef: /pages/champions }
   - { weight: 30, name: About, pageRef: / }
   - { parent: About, weight: 31, name: Rules, url: '/docs/MCCRulesandRegulationsJan132020.pdf' }
-  - { parent: About, weight: 41, name: Donors, pageRef: /pages/donors }
+  - { parent: About, weight: 41, name: Sponsors, pageRef: /pages/sponsors }
   - { parent: About, weight: 42, name: Links, pageRef: /pages/links }
   - { parent: About, weight: 60, name: Volunteer, pageRef: /pages/volunteer }
   - { parent: About, weight: 99, name: Contact Us, pageRef: /pages/contact }
