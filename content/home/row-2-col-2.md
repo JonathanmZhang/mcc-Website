@@ -1,8 +1,8 @@
 ---
 ---
 
-### News
+### Announcements
 
-See the full [News List]({{< relref "/news" >}})
+See the full [Announcements List]({{< relref "/news" >}})
 
 {{< home-news-list max="10" >}}

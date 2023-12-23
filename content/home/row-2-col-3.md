@@ -1,7 +1,7 @@
 ---
 ---
 
-### Events
+### Upcoming Events
 
 See the full [Events List]({{< relref "/events/" >}})
 

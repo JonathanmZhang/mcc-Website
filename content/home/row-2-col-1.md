@@ -3,8 +3,7 @@
 
 ### Welcome!
 
-**We are 100% full!** Sorry, we cannot accept new members.
-See [more](https://chess.ca/).
+We are currently accepting new members.
 
 {{< horizontal-rule >}}
 
