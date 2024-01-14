@@ -1,15 +1,15 @@
 {{- $max := .Get "max" | default 6 }}
-
 {{- $today := time.Now | time.Format "2006-01-02" }}
 {{- $news_all := where $.Site.RegularPages.ByDate.Reverse "Section" "news" }}
-  <ul>
-    {{- range $news_all | first $max }}
-    {{- $news_date := .Param "date" | time.Format "2006-01-02" }}
+<ul>
+  {{- range $index, $news := $news_all | first $max }}
+    {{- $news_date := $news.Param "date" | time.Format "2006-01-02" }}
     <li>
-      <a href="{{ .RelPermalink }}" class="no-decoration">
-        <span style="font-size:85%;">{{ $news_date }}:</span>
-        <br>{{ .Title }}</a>
+      <a href="{{ $news.RelPermalink }}" class="no-decoration">
+        <span style="font-size:85%;">{{ $news_date }}:</span><br>
+        {{- if eq $index 0 }}<strong>{{ $news.Title }}</strong>{{- else }}{{ $news.Title }}{{- end }}
+      </a>
     </li>
-    {{- end }}
-    <li><a href="{{ ref .Page "/events" }}" class="no-decoration">more ...</a></li>
-  </ul>
+  {{- end }}
+  <li><a href="{{ ref .Page "/events" }}" class="no-decoration">more ...</a></li>
+</ul>
