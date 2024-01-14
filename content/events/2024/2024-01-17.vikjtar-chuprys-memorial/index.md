@@ -1,6 +1,6 @@
 ---
 title: 2024 Viktar Chuprys Memorial
-date-start: 2024-01-10
+date-start: 2024-01-17
 date-end: 2024-02-14
 ---
 

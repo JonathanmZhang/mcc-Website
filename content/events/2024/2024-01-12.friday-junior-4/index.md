@@ -6,14 +6,15 @@ date-end: 2024-02-23
 ---
 
 Jump to [Orange Section](#orange-section),
-[Blue Section](#blue-section),
-[Gold Section](#gold-section).
+[Green Section](#green-section),
+[Blue Section](#blue-section).
 
 ## Orange Section
-<!-- {{< swisssys-report "*Orang*" >}} -->
+{{< swisssys-report "*Orange*" >}}
+
+## Green Section
+{{< swisssys-report "*Green*" >}}
 
 ## Blue Section
-<!-- {{< swisssys-report "*Blu*" >}} -->
+{{< swisssys-report "*Blue*" >}}
 
-## Gold Section
-<!-- {{< swisssys-report "*Gol*" >}} -->
