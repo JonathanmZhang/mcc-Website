@@ -8,12 +8,12 @@ Jump to [Amateur Section](#amateur-section), [Premier Section](#premier-section)
 [Crown Section](#crown-section).
 
 ## Amateur Section
-<!-- {{< swisssys-report "*Amateur*" >}} -->
+{{< swisssys-report "*Amateur*" >}}
 
 ## Premier Section
-<!-- {{< swisssys-report "*Premier*" >}} -->
+{{< swisssys-report "*Premier*" >}}
 
 ## Crown Section
-<!-- {{< swisssys-report "*Crown*" >}} -->
+{{< swisssys-report "*Crown*" >}}
 
 
