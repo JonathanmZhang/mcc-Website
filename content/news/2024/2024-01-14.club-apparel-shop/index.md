@@ -2,7 +2,9 @@
 title: Club Apparel Pop-up Shop
 ---
 
-The club will be opening up an apparel pop-up shop for the next two weeks until it closes on the 26th of January
+
+
+The club will be opening up an apparel pop-up shop for the next two weeks until it closes on the 28th of January
 
 You can buy shirts and hats with the club logo and some samples will be avaliable at the club.
 
