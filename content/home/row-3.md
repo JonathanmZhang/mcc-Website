@@ -8,3 +8,8 @@ The Mississauga Chess Club is the biggest chess club in Canada with players rang
 Whether you are just learning or an experienced master, the Mississauga Chess Club has something to offer for you! Come out on Wednesday for adults and Monday and Friday for kids and join the largest chess club in Canada.
 
 Members are welcome to play casual games. Great way to meet people and have some fun. CFC membership is not required to play casual games.
+
+### Tiebreak Information
+1) Head-to-Head
+2) Buchholz Cut 1
+3) Buchholz

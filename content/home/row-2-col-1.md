@@ -3,7 +3,9 @@
 
 ### Club Status & Opening Hours
 
-We are currently accepting new members.
+We have currently reached maximum capacity. 
+
+Join our waiting list! [Waiting List Form](https://docs.google.com/forms/d/10NJ0NBUab74E1k0wcw2qxqnk_pndVea2AiS4zvBzqco/edit)
 
 {{< horizontal-rule >}}
 
