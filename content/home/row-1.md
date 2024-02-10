@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to the Mississauga Chess Club's new website! We are always trying to improve the experience of our users. We are currently in the process of moving the old content to the new webpage.
+Welcome to Mississauga Chess Club's new website! We are always trying to improve the experience of our users. We are currently in the process of moving the old content to the new webpage.
 
 Welcome to Canada's biggest chess club!
 
