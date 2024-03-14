@@ -18,3 +18,5 @@ Jump to [Orange Section](#orange-section),
 ## Blue Section
 {{< swisssys-report "*Blue*" >}}
 
+
+
