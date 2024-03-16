@@ -3,21 +3,26 @@ url: /champions
 title: Club Champions
 ---
 
+- 2023: Nikola Brajkovic
+
+- 2022: Muthukumaran Ramakrishnan
+  {{% image src="/pics/champions/MuthukumaranRamakrishnan.jpg" height="400"
+  caption="2022 Club Champion:<br>Muthukumaran Ramakrishnan" %}}
+
 - 2019: Anirud Chakkoli
   {{% image src="/pics/champions/AnirudChakkoli.jpg" height="400"
-  caption="2019 Club Championp:<br>Anirud Chakkoli" %}}
+  caption="2019 Club Champion:<br>Anirud Chakkoli" %}}
 
 - 2018:<br>Premier Section: Richard Chen and Fady Abdelmalek
   <br>Amateur Section: Nikola Petrov and Kevin Sun
   {{% image src="/pics/champions/Richard_Chen_2018.jpg" height="400"
-    caption="2018 Premier Co-Champion:<br>Richard Chen" %}}     
+    caption="2018 Premier Co-Champion:<br>Richard Chen" %}}  
   {{% image src="/pics/champions/Fady_Abdelmalek_2018.jpg" height="400"
     caption="2018 Premier Co-Champion:<br>Fady Abdelmalek" %}}
   {{% image src="/pics/champions/Nikola_Petrov_2018.jpg" height="400"
     caption="2018 Amateur Co-Champion:<br>Nikola Petrov" %}}
   {{% image src="/pics/champions/Kevin_Sun_2018.jpg" height="400"
     caption="2018 Amateur Co-Champion:<br>Kevin Sun" %}}
-  
 - 2017: Benito Surya
 - 2016: B Surya
 - 2015: T Bark
