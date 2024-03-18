@@ -16,3 +16,4 @@ topnav:
   - { parent: About, weight: 42, name: Links, pageRef: /pages/links }
   - { parent: About, weight: 60, name: Volunteer, pageRef: /pages/volunteer }
   - { parent: About, weight: 99, name: Contact Us, pageRef: /pages/contact }
+  - { parent: About, weight: 101, name: Committee, pageRef: /committee }
