@@ -1,6 +1,6 @@
 ---
 url: /committee/
-title: Our Committee
+title: Our Team
 ---
 ### Co-Founders
 
@@ -40,9 +40,9 @@ title: Our Committee
 
 ### Youth Volunteers
 
-{{% image height="250" src="/pics/members/HenryLiu.jpg" caption="**Henry Liu** <br>Webmaster" %}}
+{{% image height="250" src="/pics/members/HenryLiu.jpg" caption="**Henry Liu** <br>Web Developer" %}}
 
-{{% image height="250" src="/pics/members/JonathanZhang.jpg" caption="**Jonathan Zhang** <br>Webmaster, Floater" %}}
+{{% image height="250" src="/pics/members/JonathanZhang.jpg" caption="**Jonathan Zhang** <br>Web Developer, Floater" %}}
 
 {{% image height="250" src="/pics/members/EthanWelch.jpg" caption="**Ethan Welch** <br>Coach of Monday & Friday Sessions" %}}
 
@@ -52,7 +52,7 @@ title: Our Committee
 
 {{% image height="250" src="/pics/members/JodyLiao.jpg" caption="**Jody Liao** <br>Monday Pairing" %}}
 
-{{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Wednesday Pairing" %}}
+{{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Wednesday Pairing" %}}
 
 {{% image height="250" src="/pics/members/BlakeWang.jpg" caption="**Blake Wang** <br>Monday Pairing" %}}
 
