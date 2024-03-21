@@ -46,10 +46,6 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/EthanWelch.jpg" caption="**Ethan Welch** <br>Coach of Monday & Friday Sessions" %}}
 
-{{% image height="250" src="/pics/members/StevenGuo.jpg" caption="**Steven Guo** <br>Coach of Monday Sessions" %}}
-
-{{% image height="250" src="/pics/members/JosephLiao.jpg" caption="**Joseph Liao** <br>Coach of Friday Sessions" %}}
-
 {{% image height="250" src="/pics/members/JodyLiao.jpg" caption="**Jody Liao** <br>Monday Pairing" %}}
 
 {{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Wednesday Pairing" %}}
