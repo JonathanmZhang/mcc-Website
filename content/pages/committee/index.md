@@ -36,7 +36,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/GerhardTrippen.jpg" caption="**Gerhard Trippen** <br>Friday Arbiter" %}}
 
-{{% image height="250" src="/pics/members/DentonCockburn.jpg" caption="**Denton Cockburn** <br>Monday Coach" %}}
+{{% image height="250" src="/pics/members/DentonCockburn.jpg" caption="**Denton Cockburn** <br>Monday Coach, Arbiter" %}}
 
 ### Youth Volunteers
 
