@@ -2,7 +2,7 @@
 title: "2024 Friday Junior #5"
 slug: 2024-Friday-Junior-5
 date-start: 2024-03-01
-date-end: 2024-04-19
+date-end: 2024-04-26
 ---
 
 Jump to [White Section](#white-section),
@@ -22,3 +22,4 @@ Jump to [White Section](#white-section),
 ## Blue Section
 {{< swisssys-report "*Blue*" >}}
 
+    
