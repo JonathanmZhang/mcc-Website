@@ -1,7 +1,7 @@
 ---
 title: 2024 Early Spring Tournament
 date-start: 2024-03-20
-date-end: 2024-04-24
+date-end: 2024-05-01
 ---
 
 Jump to [Amateur Section](#amateur-section), [Premier Section](#premier-section),
