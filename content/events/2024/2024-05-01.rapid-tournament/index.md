@@ -4,16 +4,14 @@ date-start: 2024-05-01
 date-end: 2024-05-15
 ---
 
-Jump to [Amateur Section](#amateur-section), [Premier Section](#premier-section),
-[Crown Section](#crown-section).
+Jump to [Open Section](#Open-section), [U1000 Section](#U1000-section).
 
-## Amateur Section
-{{< swisssys-report "*Amateur*" >}}
+## Open Section
+{{< swisssys-report "*Open*" >}}
 
-## Premier Section
-{{< swisssys-report "*Premier*" >}}
+## U1000 Section
+{{< swisssys-report "*U1000*" >}}
 
-## Crown Section
-{{< swisssys-report "*Crown*" >}}
+
 
 
