@@ -2,7 +2,7 @@
 title: "2024 Friday Junior #6"
 slug: 2024-Friday-Junior-6
 date-start: 2024-04-26
-date-end: 2024-06-14
+date-end: 2024-06-07
 ---
 
 Jump to [White Section](#white-section),
