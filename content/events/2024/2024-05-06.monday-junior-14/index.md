@@ -1,7 +1,7 @@
 ---
 title: "2024 Monday Junior #14"
 slug: 2024-Monday-Junior-14
-date-start: 2024-05-02
+date-start: 2024-05-06
 date-end: 2024-06-17
 ---
 
