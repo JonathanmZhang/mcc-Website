@@ -3,7 +3,7 @@
 
 ### Club Status & Opening Hours
 
-
+<!--
 **We have currently reached maximum capacity on Mondays.**
 
 If you wish to join us on Mondays, please fill out the form below:
@@ -12,7 +12,7 @@ If you wish to join us on Mondays, please fill out the form below:
 
 
 {{< horizontal-rule >}}
-
+-->
 
 **Adult Club**: 
 <br>6:30 pm - 10:30 pm Wednesday Nights
