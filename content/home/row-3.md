@@ -14,7 +14,9 @@ Address: 1444 Dundas Crescent, Mississauga, ON L5C 1E7
 
 Parking available at the front and back lots.
 
-### Tiebreak Information
+### Tiebreak Information & Bye Rules
 1) Head-to-Head
 2) Buchholz Cut 1
 3) Buchholz
+
+For Junior tournaments on Monday and Friday, <b>we do not give any byes</b>. If you are absent, you will not receive a point. For Wednesday <b>5-round tournaments</b>, players can request a maximum of 2 half-point byes in rounds 1-3 if we receive your request <b>before</b> the round starts.

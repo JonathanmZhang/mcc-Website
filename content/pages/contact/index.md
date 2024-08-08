@@ -9,7 +9,7 @@ Feel free to contact us if you require further information.</p>
 
 - [I want to play chess at the club, do you have details?](/)
 - [I want to play more chess outside the club, where can I go?](/links/)
-- [I want to volunteer](/volunteers/)
+- [I want to volunteer](/volunteer/)
 
 ### Mississauga Chess Club Poster
 {{% figure src="/pics/MCCChessPoster.jpg"
