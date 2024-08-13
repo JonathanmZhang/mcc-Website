@@ -4,9 +4,9 @@ title: Our Team
 ---
 ### Co-Founders
 
-{{% image src="/pics/members/PaulRoschman.jpg" caption="**Paul Roschman** <br>Co-Founder, Treasurer" %}}
+{{% image src="/pics/members/PaulRoschman.jpg" caption="**Paul Roschman** <br>Co-Founder<br>Non-Active" %}}
 
-{{% image src="/pics/members/RobertGillanders.jpg" caption="**Robert Gillanders** <br>Co-Founder" %}}
+{{% image src="/pics/members/RobertGillanders.jpg" caption="**Robert Gillanders** <br>Co-Founder<br>Non-Active" %}}
 
 ### Organizer Team
 
@@ -16,17 +16,17 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/ShawnLiu.jpg" caption="**Shawn Liu** <br>TD, Arbiter, Public Relations" %}}
 
-{{% image height="225" src="/pics/members/AnnaPan.jpg" caption="**Anna Pan** <br>Director, Organizer, <br>Membership & Finance" %}}
+{{% image height="225" src="/pics/members/AnnaPan.jpg" caption="**Anna Pan** <br>Director, Organizer, <br>Treasurer, Membership" %}}
 
 {{% image height="250" src="/pics/members/MinZhou.jpg" caption="**Min Zhou** <br>Accountant" %}}
 
 {{% image height="250" src="/pics/members/ArsenioGacad.jpg" caption="**Arsenio Gacad** <br>Acting Friday Director" %}}
 
-{{% image height="250" src="/pics/members/RashidMughal.jpg" caption="**Rashid Mughal** <br>Editor" %}}
+<!-- {{% image height="250" src="/pics/members/RashidMughal.jpg" caption="**Rashid Mughal** <br>Editor" %}} -->
 
-{{% image height="250" src="/pics/members/AnnaFan.jpg" caption="**Anna Fan** <br>Membership, Library" %}}
+<!-- {{% image height="250" src="/pics/members/AnnaFan.jpg" caption="**Anna Fan** <br>Membership, Library" %}}
 
-{{% image height="250" src="/pics/members/GraceChen.jpg" caption="**Grace Chen** <br>General Assistant, Monday Membership" %}}
+{{% image height="250" src="/pics/members/GraceChen.jpg" caption="**Grace Chen** <br>General Assistant, Monday Membership" %}} -->
 
 <!-- {{% image height="250" src="/pics/members/BalaSreekumar.jpg" caption="**Bala Sreekumar** <br>Tournament Director" %}} -->
 
@@ -37,6 +37,8 @@ title: Our Team
 {{% image height="250" src="/pics/members/GerhardTrippen.jpg" caption="**Gerhard Trippen** <br>Friday Arbiter" %}}
 
 {{% image height="250" src="/pics/members/DentonCockburn.jpg" caption="**Denton Cockburn** <br>Monday Coach, Arbiter" %}}
+
+{{% image height="250" src="/pics/members/KevinHong.jpg" caption="**Kevin Hong** <br>System Developer" %}}
 
 ### Youth Volunteers
 
@@ -52,8 +54,10 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Wednesday Pairing" %}}
 
-{{% image height="250" src="/pics/members/BlakeWang.jpg" caption="**Blake Wang** <br>Monday Pairing" %}}
+<!-- {{% image height="250" src="/pics/members/BlakeWang.jpg" caption="**Blake Wang** <br>Monday Pairing" %}} -->
 
 {{% image height="250" src="/pics/members/ZihanHong.jpg" caption="**Zihan Hong** <br>Monday Pairing" %}}
 
 {{% image height="250" src="/pics/members/FaustineLiu.jpg" caption="**Faustine Liu** <br>Graphic Designer" %}}
+
+{{% image height="250" src="/pics/members/YihanHong.JPG" caption="**Yihan Hong** <br>System Developer" %}}
