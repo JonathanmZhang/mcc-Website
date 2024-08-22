@@ -58,6 +58,9 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/ZihanHong.jpg" caption="**Zihan Hong** <br>Monday Pairing" %}}
 
+{{% image height="250" src="/pics/members/JahvonCockburn.jpg" caption="**Jahvon Cockburn** <br>Monday Pairing" %}}
+
 {{% image height="250" src="/pics/members/FaustineLiu.jpg" caption="**Faustine Liu** <br>Graphic Designer" %}}
 
 {{% image height="250" src="/pics/members/YihanHong.JPG" caption="**Yihan Hong** <br>System Developer" %}}
+
