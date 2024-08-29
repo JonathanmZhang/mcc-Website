@@ -1,7 +1,7 @@
 ---
 title: "Mississauga Chess Club Championship"
 date-start: 2024-08-28
-date-end: 2024-10-2
+date-end: 2024-10-02
 ---
 
 Jump to [U1000 Section](#U1000-section), 
