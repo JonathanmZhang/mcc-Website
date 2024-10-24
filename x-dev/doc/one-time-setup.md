@@ -69,8 +69,8 @@ The lastest content and code files should be in the github.com repository.
 To get these files, create a new directory (or folder ) for it,
 go into that folder, and enter the following git command:
 
-    md \path\to\Mississaug-Chess-Club
-    cd \path\to\Mississaug-Chess-Club
+    md \path\to\Mississauga-Chess-Club
+    cd \path\to\Mississauga-Chess-Club
     git clone https://github.com/JonathanmZhang/mcc-Website.git
 
 In your newly created directory, you should now have another
@@ -82,7 +82,7 @@ content and code files from github.com.
 Now we need to install Hugo and the additional software packages
 needed to build the website.  Run these commands:
 
-    cd \path\to\Mississaug-Chess-Club\mcc-Website
+    cd \path\to\Mississauga-Chess-Club\mcc-Website
     cd hugo
     npm install
 
