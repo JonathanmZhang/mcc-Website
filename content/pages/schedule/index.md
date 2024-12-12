@@ -1,18 +1,18 @@
 ---
 url: /schedule/
-title: Schedule - 2024
+title: Schedule - 2025
 ---
 
 Jump to [Adults-Wednesday](#adults---wednesday), [Youth-Monday](#youth---monday), [Youth-Friday](#youth---friday).
 
 ### Adults - Wednesday
-{{< csv-to-table data="2024Wednesday.csv" table_class="schedule" >}}
+{{< csv-to-table data="2025Wednesday.csv" table_class="schedule" >}}
 
 ### Youth - Monday
-{{< csv-to-table data="2024Monday.csv" table_class="schedule" >}}
+{{< csv-to-table data="2025Monday.csv" table_class="schedule" >}}
 
 ### Youth - Friday
-{{< csv-to-table data="2024Friday.csv" table_class="schedule" >}}
+{{< csv-to-table data="2025Friday.csv" table_class="schedule" >}}
 
 
 <style>
