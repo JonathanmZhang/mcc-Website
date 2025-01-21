@@ -6,7 +6,7 @@ date-end: 2025-02-07
 ---
 
 Jump to [U1000 Section](#u1000-section), 
-[U1U1200 Section](#u1200-section),
+[U1200 Section](#u1200-section),
 [Open Section](#open-section).
 
 ## U1000 Section
