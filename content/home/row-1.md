@@ -7,6 +7,9 @@ Welcome to Canada's biggest chess club!
 
 **[MCC Adopts New Technology to Streamline Operations](/member-stories/new-technology)**
 
+**<h2 style="color:red">Due to the inclement weather and unsafe road conditions, we will be closed today, Wednesday, February 12, 2025. We plan to have our February Blitz tournament next Wednesday, and we hope to see you there!</h2>**
+
+
 **<h3>Due to space limitation, We are currently full and no longer accept new members. If you are interested to join us, please join our waiting list by sending an email to mississaugachessclub@gmail.com</h3>**
 
 **QUICK LINKS:** [2025 Schedule](/schedule/) [Tournament Results](/events)
