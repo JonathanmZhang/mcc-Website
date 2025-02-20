@@ -1,6 +1,6 @@
 ---
-title: "2025 Febuary Blitz"
-slug: 2025-Febuary Blitz
+title: "2025 Feb Blitz"
+slug: 2025-Feb Blitz
 date-start: 2025-02-19
 date-end: 2025-02-19
 ---
