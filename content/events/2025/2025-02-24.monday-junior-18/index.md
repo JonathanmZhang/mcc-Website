@@ -5,7 +5,7 @@ date-start: 2025-02-24
 date-end: 2025-03-31
 ---
 
-[U800 Section](#U800-section),
+Jump to [U800 Section](#U800-section),
 [U1000 Section](#U1000-section),
 [U1200 Section](#U1200-section),
 [Open Section](#Open-section),
