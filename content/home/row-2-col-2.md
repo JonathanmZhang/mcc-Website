@@ -5,4 +5,4 @@
 
 See the full [Announcements List]({{< relref "/news" >}})
 
-{{< home-news-list max="10" >}}
+{{< home-news-list max="4" >}}

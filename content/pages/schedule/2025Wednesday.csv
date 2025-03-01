@@ -13,13 +13,13 @@ Date,Tournament ,Time Controls,Round,# of Rounds
 2025-03-19,Early Spring Tournament, ,4, 
 2025-03-26,Early Spring Tournament,,5,
 2025-04-02,Early Spring Tournament,,6,
-2025-04-09,Spring Showers,60 min + 30 sec,1,6
+2025-04-09,Spring Showers,60 min + 30 sec delay,1,6
 2025-04-16,Spring Showers, ,2, 
 2025-04-23,Spring Showers,,3,
 2025-04-30,Spring Showers,,4,
 2025-05-07,Spring Showers,,5,
 2025-05-14,Spring Showers, ,6, 
-2025-05-21,Summer Breeze,60 min + 30 sec,1,6
+2025-05-21,Summer Breeze,60 min + 30 sec delay,1,6
 2025-05-28,Summer Breeze,,2,
 2025-06-04,Summer Breeze, ,3,
 2025-06-11,Summer Breeze,,4, 
@@ -28,20 +28,20 @@ Date,Tournament ,Time Controls,Round,# of Rounds
 2025-07-02, Semi AGM / Casual Chess,, ,
 2025-07-09,Closed -  Summer Break,, ,
 2025-07-16,Closed -  Summer Break,, ,
-2025-07-23,Summer Classic,60 min + 30 sec,1,6
+2025-07-23,Summer Classic,60 min + 30 sec delay,1,6
 2025-07-30,Summer Classic,,2, 
 2025-08-06,Summer Classic,,3, 
 2025-08-13,Summer Classic, ,4, 
 2025-08-20,Summer Classic, ,5, 
 2025-08-27,Summer Classic, ,6, 
-2025-09-03,Mississauga Chess Club Championship,60 min + 30 sec,1,6
+2025-09-03,Mississauga Chess Club Championship,60 min + 30 sec delay,1,6
 2025-09-10,Mississauga Chess Club Championship,,2,
 2025-09-17,Mississauga Chess Club Championship,,3,
 2025-09-24,Mississauga Chess Club Championship,,4,
 2025-10-01,Mississauga Chess Club Championship, ,5, 
 2025-10-08,Mississauga Chess Club Championship, ,6, 
 2025-10-15,October Blitz,5 min,1 to 6,6
-2025-10-22,Fall Classic,60 min + 30 sec,1,6
+2025-10-22,Fall Classic,60 min + 30 sec delay,1,6
 2025-10-29,Fall Classic, ,2, 
 2025-11-05,Fall Classic,,3,
 2025-11-12,Fall Classic,,4,
