@@ -40,6 +40,13 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/KevinHong.jpg" caption="**Kevin Hong** <br>System Developer" %}}
 
+{{% image height="250" src="/pics/members/NatiaKaikatsishvili.jpg" caption="**Natia Kaikatsishvili** <br>Monday General Assistant" %}}
+
+{{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}}
+
+{{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Monday & Friday General Assistant" %}}
+
+
 ### Youth Volunteers
 
 {{% image height="250" src="/pics/members/HenryLiu.jpg" caption="**Henry Liu** <br>Web Developer" %}}
@@ -63,4 +70,7 @@ title: Our Team
 {{% image height="250" src="/pics/members/FaustineLiu.jpg" caption="**Faustine Liu** <br>Graphic Designer" %}}
 
 {{% image height="250" src="/pics/members/YihanHong.JPG" caption="**Yihan Hong** <br>System Developer" %}}
+
+{{% image height="300" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Friday Pairing" %}}
+
 
