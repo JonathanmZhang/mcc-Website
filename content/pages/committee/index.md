@@ -30,7 +30,7 @@ title: Our Team
 
 <!-- {{% image height="250" src="/pics/members/BalaSreekumar.jpg" caption="**Bala Sreekumar** <br>Tournament Director" %}} -->
 
-{{% image height="250" src="/pics/members/RileyKhan.jpg" caption="**Riley Khan** <br>Wednesday Arbiter <br>‎ " %}}
+<!--{{% image height="250" src="/pics/members/RileyKhan.jpg" caption="**Riley Khan** <br>Wednesday Arbiter <br>‎ " %}} -->
 
 {{% image height="250" src="/pics/members/VivianLiu.jpg" caption="**Vivian Liu** <br>Acting Friday Director, <br>General Assistant" %}}
 
@@ -38,7 +38,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/DentonCockburn.jpg" caption="**Denton Cockburn** <br>Monday Coach, Arbiter <br>‎ " %}}
 
-{{% image height="250" src="/pics/members/KevinHong.jpg" caption="**Kevin Hong** <br>System Developer" %}}
+{{% image height="250" src="/pics/members/KevinHong.jpg" caption="**Kevin Hong** <br>System Developer <br>‎ " %}}
 
 {{% image height="250" src="/pics/members/NatiaKaikatsishvili.jpg" caption="**Natia Kaikatsishvili** <br>Monday General Assistant" %}}
 
