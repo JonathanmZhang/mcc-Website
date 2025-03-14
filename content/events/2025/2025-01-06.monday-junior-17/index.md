@@ -5,8 +5,8 @@ date-start: 2025-01-06
 date-end: 2025-02-10
 ---
 
-[Orange Section](#orange-section),
-[Blue Section](#Blue-section).
+[Orange Section](#orange-section)
+[Blue Section](#blue-section)
 
 ## Orange Section
 {{< swisssys-report "*Orange*" >}}
