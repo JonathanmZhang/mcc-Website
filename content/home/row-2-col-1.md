@@ -19,7 +19,7 @@ If you wish to join us on Mondays, please fill out the form below:
 
 **Youth Club**:
 <br>6:30 pm - 8:30 pm Monday Nights
-6:30 pm - 8:30 pm Friday Nights
+<br>6:30 pm - 8:30 pm Friday Nights
 
 Registration time is between 6:30 pm and 7:00 pm. Games start at 7:15 pm. Please ensure you arrive by 7:00 pm to register your name for the night's tournament. 
 
