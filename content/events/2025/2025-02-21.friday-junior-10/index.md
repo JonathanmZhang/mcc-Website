@@ -2,7 +2,7 @@
 title: "2025 Friday Junior 10"
 slug: 2025-Friday Junior 10"
 date-start: 2025-02-21
-date-end: 2025-04-11
+date-end: 2025-03-28
 ---
 
 Jump to [U800 Section](#u800-section)
