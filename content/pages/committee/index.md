@@ -44,7 +44,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}}
 
-{{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Monday & Friday General Assistant" %}}
+{{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Monday & Wednesday General Assistant" %}}
 
 
 ### Youth Volunteers
@@ -55,11 +55,11 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/EthanWelch.jpg" caption="**Ethan Welch** <br>Coach of Monday & Friday Sessions" %}}
 
-{{% image height="250" src="/pics/members/EthanLi.jpg" caption="**Ethan Li** <br>Wednesday Pairing, Floater" %}}
+<!--  {{% image height="250" src="/pics/members/EthanLi.jpg" caption="**Ethan Li** <br>Wednesday Pairing, Floater" %}}  -->
 
 <!--  {{% image height="250" src="/pics/members/JodyLiao.jpg" caption="**Jody Liao** <br>Monday Pairing" %}}  -->
 
-{{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Wednesday Pairing" %}}
+{{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Pairing" %}}
 
 <!-- {{% image height="250" src="/pics/members/BlakeWang.jpg" caption="**Blake Wang** <br>Monday Pairing" %}} -->
 

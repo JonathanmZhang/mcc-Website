@@ -16,6 +16,7 @@
   "dependencies": {
     "alpinejs": "*",
     "bulma": "*",
+    "codeboy.dev": "file:",
     "htmx.org": "*",
     "hugo": "^0.0.3",
     "hugo-extended": "0.120.4"
