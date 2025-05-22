@@ -71,6 +71,6 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/YihanHong.JPG" caption="**Yihan Hong** <br>System Developer" %}}
 
-{{% image height="300" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Friday Pairing" %}}
+{{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Friday Pairing" %}}
 
 
