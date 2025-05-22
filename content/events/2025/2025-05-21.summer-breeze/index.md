@@ -1,6 +1,6 @@
 ---
-title: "2025 Summer Blitz"
-slug: 2025 Summer Blitz
+title: "2025 Summer Breeze"
+slug: 2025 Summer Breeze
 date-start: 2025-05-21
 date-end: 2025-07-02
 ---
