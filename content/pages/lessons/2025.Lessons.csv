@@ -1,41 +1,42 @@
-year,month,topics
-2025,January,Consolidation
-,,Domination
-, ,Zugzwang
-,,Discovered Attacks
-,February,Zwischenzug
-,,Principle of 2 Weaknesses
-,,Blockade/Outpost
-,March,Fianchetto
-,,Sharp/Solid
-,,Queenless Middlegames
-,,Sicilian Defence
-,April,French/Caro
-,,Oldies but Goodies
-,,Modern Miniatures
-,May,Hypermodernism
-,,Reversed Systems
-,,Accelerated Systems
-,June,Neo Systems
-,,Canadian Talent
-,,Chess Role Models
-,,Checks
-,July,Captures
-,,Attacks
-,August,Checkmate
-,,Stalemate
-,,Notation
-,,Etiquette
-,September,Development
-,,The Center
-,,Scholar's Mate
-,,Castling
-,October,Promotion/
-,,Underpromotion
-,,En Passant
-,,Ranks/Files/
-,November,Diagonals
-,,Material
-,,Active/Passive
-,,Resignation
-,December,Pawn/Pawn Breaks
+year,topics
+2025,[Consolidation](https://lichess.org/study/vrjLGLkt)
+,[Domination](https://lichess.org/study/HqfjOFah)
+, [Zugzwang](https://lichess.org/study/CaDheARM)
+,[Discovered Attacks](https://lichess.org/study/b3ysWaRs)
+,[Zwischenzug](https://lichess.org/study/pzGF9bFz)
+,[Principle of 2 Weaknesses](https://lichess.org/study/NwtM6Fr6)
+,[Blockade/Outpost](https://lichess.org/study/r7n0zoGV)
+,[Fianchetto](https://lichess.org/study/05mOR1fS)
+,[Sharp/Solid](https://lichess.org/study/POhQxJ7d)
+,[Sicilian Defence](https://lichess.org/study/pkPAQUcg)
+,[French](https://lichess.org/study/97WRmgRE)
+,[Caro](https://lichess.org/study/F7Paz1KX)
+,[Petrov](https://lichess.org/study/hGWy2RTH)
+,Oldies but Goodies
+,Modern Miniatures
+,Hypermodernism
+,Reversed Systems
+,Accelerated Systems
+,Neo Systems
+,Canadian Talent
+,Chess Role Models
+,Checks
+,Captures
+,Attacks
+,Checkmate
+,Stalemate
+,Notation
+,Etiquette
+,Development
+,The Center
+,Scholar's Mate
+,Castling
+,Promotion/
+,Underpromotion
+,En Passant
+,Ranks/Files/
+,Diagonals
+,Material
+,Active/Passive
+,Resignation
+,Pawn/Pawn Breaks
