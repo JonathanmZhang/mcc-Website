@@ -6,7 +6,7 @@ title: Chess For Kids
 If you are new to in-person chess, and you want to learn about chess notation and etiquette, it is highly recommended to go through this [study](https://lichess.org/study/ZZv5Yg6D/EFVvusEf). Special thanks to our Monday Coach Ethan for sharing these materials.
 
 Mississauga Chess Club offers a friendly environment for kids and youth to play each other.
-Juniors with a CFC rating over 1000 can join our Wednesday club.
+Juniors with a CFC rating over 1200 can join our Wednesday club.
 
 We play regular 6-week CFC rated tournaments alongside fun chess days.
 
