@@ -21,4 +21,3 @@ Jump to [U800 Section](#u800-section)
 
 ## Open Section
 {{< swisssys-report "*open*" >}}
-5
