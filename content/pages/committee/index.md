@@ -26,7 +26,7 @@ title: Our Team
 
 <!-- {{% image height="250" src="/pics/members/AnnaFan.jpg" caption="**Anna Fan** <br>Membership, Library" %}}
 
-{{% image height="250" src="/pics/members/GraceChen.jpg" caption="**Grace Chen** <br>General Assistant, Monday Membership" %}} -->
+<!-- {{% image height="250" src="/pics/members/GraceChen.jpg" caption="**Grace Chen** <br>General Assistant, Monday Membership" %}} -->
 
 <!-- {{% image height="250" src="/pics/members/BalaSreekumar.jpg" caption="**Bala Sreekumar** <br>Tournament Director" %}} -->
 
@@ -42,7 +42,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/NatiaKaikatsishvili.jpg" caption="**Natia Kaikatsishvili** <br>Monday General Assistant" %}}
 
-{{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}}
+<!-- {{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}} -->
 
 {{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Monday & Wednesday General Assistant" %}}
 
