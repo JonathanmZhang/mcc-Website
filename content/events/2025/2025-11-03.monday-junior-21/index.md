@@ -1,6 +1,6 @@
 ---
 title: "2025 Monday Junior #21"
-slug: 2025-Monday-Junior-20
+slug: 2025-Monday-Junior-21
 date-start: 2025-11-03
 date-end: 2025-12-01
 ---
