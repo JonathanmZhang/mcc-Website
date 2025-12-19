@@ -7,4 +7,11 @@ NOTE: Lessons are for Monday and Friday sessions only from 6:45 - 7:15pm and 8:0
 
 In the future, lectured lessons will be revised with comments. For now only a few are annotated.
 
-{{< csv-to-table data="2025.Lessons.csv" table_class="schedule" width="600px">}}
+Jump to [Monday and Friday Lessons](#monday-and-friday)
+[Wednesday Lessons](#wednesday)
+
+## Monday and Friday
+{{< csv-to-table data="2025.Monday.Friday.Lessons.csv" table_class="schedule" width="600px">}}
+
+## Wednesday
+{{< csv-to-table data="2025.Wednesday.Lessons.csv" table_class="schedule" width="600px">}}
