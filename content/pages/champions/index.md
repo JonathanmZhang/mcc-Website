@@ -3,6 +3,14 @@ url: /champions
 title: Club Champions
 ---
 
+- 2025: Adam Cheng
+  {{% image src="/pics/champions/2025champion.jpg" height="400"
+  caption="2025 Club Champion:<br>Adam Cheng" %}}
+
+ - 2024: Nikola Brajkovic
+  {{% image src="/pics/champions/2024champion.jpg" height="400" 
+  caption="2024 Club Champion:<br>Nikola Brajkovic" %}}
+
 - 2023: Nikola Brajkovic
 
 - 2022: Muthukumaran Ramakrishnan

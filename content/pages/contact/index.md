@@ -22,6 +22,7 @@ We are not responsible for the content on any of these sites.
 [ACCESS HERE](/links/)
 
 ### Have any other questions?
-- Visit us on Monday, Wednesday, or Friday nights at [Erindale United Church](/location/)
+- Visit us on Monday, Wednesday, or Friday nights at [Erindale United Church](https://maps.app.goo.gl/mKioJJJbJDvMra8N9)
 - Email us at: [mississaugachessclub@gmail.com](mailto:mississaugachessclub@gmail.com)
+- Follow us on [Instagram](https://www.instagram.com/mississaugachessclub/)
 - Follow us on [Facebook](https://www.facebook.com/groups/375896684513470)
