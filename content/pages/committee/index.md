@@ -10,7 +10,7 @@ title: Our Team
 
 ### Organizer Team
 
-{{% image src="/pics/members/UndriadiBenggawan.jpg" caption="**Undriadi Benggawan** <br>Overseer" %}}
+{{% image height="250" src="/pics/members/UndriadiBenggawan.jpg" caption="**Undriadi Benggawan** <br>Overseer" %}}
 
 {{% image height="250" src="/pics/members/DewuZhang.jpg" caption="**Dewu Zhang** <br>Tournament Director" %}}
 
