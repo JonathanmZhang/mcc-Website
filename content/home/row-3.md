@@ -3,7 +3,7 @@
 
 ### Introduction
 
-The Mississauga Chess Club is the biggest chess club in Canada with players ranging in strength from beginner to master. All age groups are represented through a youth and adult club. The adult club holds regular tournaments (5' Blitz, 25' + 5s/move Active, 60'+ 30s/move Standard), casual chess evenings, and fun chess nights. The youth club plays regular 6 week tournaments (5' Blitz, 10' and 25' + 5s/move Active).
+The Mississauga Chess Club is the biggest chess club in Canada with players ranging in strength from beginner to master. All age groups are represented through a youth and adult club. The adult club holds regular tournaments (3'+ 2s/move Blitz, 10' + 2s/move Active, 45' + 30s/move and 60'+ 30s delay Standard), casual chess evenings, and fun chess nights. The youth club plays regular 6 week tournaments (5' Blitz, 10' and 25' + 5s/move Active).
 
 Whether you are a beginner or an experienced player, Mississauga Chess Club offers you a great way to meet people and have some fun. CFC membership is not required to play casual games.
 
