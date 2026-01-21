@@ -44,14 +44,14 @@ title: Our Team
 
 <!-- {{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}} -->
 
-{{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Monday & Wednesday General Assistant" %}}
+{{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Wednesday General Assistant" %}}
 
 
 ### Youth Volunteers
 
 {{% image height="250" src="/pics/members/HenryLiu.jpg" caption="**Henry Liu** <br>Web Developer" %}}
 
-{{% image height="250" src="/pics/members/JonathanZhang.jpg" caption="**Jonathan Zhang** <br>Web Developer, Floater" %}}
+{{% image height="250" src="/pics/members/JonathanZhang.jpg" caption="**Jonathan Zhang** <br>Web Developer" %}}
 
 {{% image height="250" src="/pics/members/EthanWelch.jpg" caption="**Ethan Welch** <br>Coach of Monday & Friday Sessions" %}}
 
@@ -63,14 +63,14 @@ title: Our Team
 
 <!-- {{% image height="250" src="/pics/members/BlakeWang.jpg" caption="**Blake Wang** <br>Monday Pairing" %}} -->
 
-{{% image height="250" src="/pics/members/ZihanHong.jpg" caption="**Zihan Hong** <br>Monday Pairing" %}}
+{{% image height="250" src="/pics/members/ZihanHong.jpg" caption="**Zihan Hong** <br>Arbiter, System Developer" %}}
 
-{{% image height="250" src="/pics/members/JahvonCockburn.jpg" caption="**Jahvon Cockburn** <br>Monday Pairing" %}}
+{{% image height="250" src="/pics/members/JahvonCockburn.jpg" caption="**Jahvon Cockburn** <br>Monday Pairing, Arbiter" %}}
 
 {{% image height="250" src="/pics/members/FaustineLiu.jpg" caption="**Faustine Liu** <br>Graphic Designer" %}}
 
 {{% image height="250" src="/pics/members/YihanHong.JPG" caption="**Yihan Hong** <br>System Developer" %}}
 
-{{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Friday Pairing" %}}
+{{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Webmaster, Friday Pairing" %}}
 
 
