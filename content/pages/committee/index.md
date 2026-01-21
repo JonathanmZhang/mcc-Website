@@ -51,7 +51,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/HenryLiu.jpg" caption="**Henry Liu** <br>Web Developer" %}}
 
-{{% image height="250" src="/pics/members/JonathanZhang.jpg" caption="**Jonathan Zhang** <br>Web Developer" %}}
+{{% image height="250" src="/pics/members/JonathanZhang.jpg" caption="**Jonathan Zhang** <br>Web Developer, Webmaster" %}}
 
 {{% image height="250" src="/pics/members/EthanWelch.jpg" caption="**Ethan Welch** <br>Coach of Monday & Friday Sessions" %}}
 
