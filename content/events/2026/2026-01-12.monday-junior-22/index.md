@@ -1,6 +1,6 @@
 ---
-title: "2026 MCC Junior #22"
-slug: 2026-MCC-Junior-22
+title: "2026 Monday Junior 22"
+slug: 2026-Monday-Junior-22
 date-start: 2026-01-12
 date-end: 2026-02-09
 ---
