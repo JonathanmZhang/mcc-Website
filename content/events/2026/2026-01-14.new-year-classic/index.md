@@ -2,7 +2,7 @@
 title: "2026 New Year Classic"
 slug: 2026-New Year Classic
 date-start: 2026-01-14
-date-end: 202
+date-end: 2024-02-25
 
 Jump to [U1300 Section](#u1300-section), 
 [U1600 Section](#u1600-section),
