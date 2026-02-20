@@ -5,10 +5,6 @@ Welcome to Mississauga Chess Club's new website! We are always trying to improve
 
 Welcome to Canada's biggest chess club!
 
-<p style="color:red;font-weight: bold;">
-Due to the inclement weather and unsafe road conditions, MCC is closed on Wednesday, February 18th, 2026.
-</p> 
-
 **[MCC Adopts New Technology to Streamline Operations](/member-stories/new-technology)**
 
 **<h3>Due to space limitation, We are currently full and no longer accept new members. If you are interested to join us, please join our waiting list by sending an email to mississaugachessclub@gmail.com</h3>**
