@@ -2,6 +2,7 @@
 url: /committee/
 title: Our Team
 ---
+
 ### Co-Founders
 
 {{% image src="/pics/members/PaulRoschman.jpg" caption="**Paul Roschman** <br>Co-Founder<br>Non-Active" %}}
@@ -46,6 +47,11 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Wednesday General Assistant" %}}
 
+{{% image height="250" src="/pics/members/RodPolako.jpg" caption="**Rod Polako** <br>Orientation Coordinator" %}}
+
+{{% image height="250" src="/pics/members/DevendrakumarPipalia.jpg" caption="**Devendrakumar Pipalia** <br>Friday General Assistant, Arbiter" %}}
+
+{{% image height="250" src="/pics/members/ShibaniKurup.jpg" caption="**Shibani Kurup** <br>Friday General Assistant" %}}
 
 ### Youth Volunteers
 
@@ -71,6 +77,6 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/YihanHong.JPG" caption="**Yihan Hong** <br>System Developer" %}}
 
+{{% image height="250" src="/pics/members/IreneXie.jpg" caption="**Irene Xie** <br>Webmaster, Friday Pairing" %}}
+
 {{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Webmaster, Friday Pairing" %}}
-
-
