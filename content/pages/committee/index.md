@@ -80,3 +80,5 @@ title: Our Team
 {{% image height="250" src="/pics/members/IreneXie.jpg" caption="**Irene Xie** <br>Friday Pairing, Arbiter" %}}
 
 {{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Webmaster, Friday Pairing" %}}
+
+{{% image height="250" src="/pics/members/VincentWei.jpg" caption="**Vincent Wei** <br>Monday Coach" %}}
