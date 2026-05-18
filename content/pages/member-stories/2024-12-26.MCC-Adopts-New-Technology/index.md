@@ -1,6 +1,6 @@
 ---
-url: /member-stories/new-technology/
-title: MCC Adopts New Technology to Streamline Operations
+url: /member-stories/new-technology-1/
+title: MCC Adopts New Technology to Streamline Operations 1
 ---
 
 The Mississauga Chess Club (MCC) is thriving with over 480 active members. On any given Monday or Friday night, about 100 chess enthusiasts gather at the club. This remarkable growth has led MCC to reach its membership cap three times, temporarily halting new sign-ups. Such success is a testament to the dedication of the club's administrators, including Anna Pan and Undriadi Benggawan, who work tirelessly behind the scenes managing administrative tasks.
