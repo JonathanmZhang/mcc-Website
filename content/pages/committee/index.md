@@ -19,7 +19,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/AnnaPan.jpg" caption="**Anna Pan** <br>Director, Organizer, <br>Treasurer, Membership" %}}
 
-{{% image height="250" src="/pics/members/MinZhou.jpg" caption="**Min Zhou** <br>Accountant <br>‎ " %}}
+<!-- {{% image height="250" src="/pics/members/MinZhou.jpg" caption="**Min Zhou** <br>Accountant <br>‎ " %}} -->
 
 <!-- {{% image height="250" src="/pics/members/ArsenioGacad.jpg" caption="**Arsenio Gacad** <br>Acting Friday Director" %}} -->
 
@@ -45,13 +45,13 @@ title: Our Team
 
 <!-- {{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}} -->
 
-{{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Wednesday General Assistant" %}}
+<!-- {{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Wednesday General Assistant" %}} -->
 
 {{% image height="250" src="/pics/members/RodPolako.jpg" caption="**Rod Polako** <br>Orientation Coordinator" %}}
 
 {{% image height="250" src="/pics/members/DevendrakumarPipalia.jpg" caption="**Devendrakumar Pipalia** <br>Friday General Assistant, Arbiter" %}}
 
-{{% image height="250" src="/pics/members/ShibaniKurup.jpg" caption="**Shibani Kurup** <br>Friday General Assistant" %}}
+<!-- {{% image height="250" src="/pics/members/ShibaniKurup.jpg" caption="**Shibani Kurup** <br>Friday General Assistant" %}} -->
 
 ### Youth Volunteers
 
@@ -81,4 +81,4 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Webmaster, Friday Pairing" %}}
 
-{{% image height="250" src="/pics/members/VincentWei.jpg" caption="**Vincent Wei** <br>Monday Coach" %}}
+<!-- {{% image height="250" src="/pics/members/VincentWei.jpg" caption="**Vincent Wei** <br>Monday Coach" %}} -->
