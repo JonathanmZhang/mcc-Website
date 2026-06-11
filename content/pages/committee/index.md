@@ -41,7 +41,7 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/KevinHong.jpg" caption="**Kevin Hong** <br>System Developer <br>‎ " %}}
 
-{{% image height="250" src="/pics/members/NatiaKaikatsishvili.jpg" caption="**Natia Kaikatsishvili** <br>Monday General Assistant" %}}
+{{% image height="250" src="/pics/members/NatiaKaikatsishvili.jpg" caption="**Natia Kaikatsishvili** <br>Monday General Assistant <br>‎ " %}}
 
 <!-- {{% image height="250" src="/pics/members/JemmaLi.jpg" caption="**Jemma Li** <br>Friday General Assistant" %}} -->
 
