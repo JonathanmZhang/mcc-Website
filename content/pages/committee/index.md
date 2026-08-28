@@ -51,6 +51,8 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/DevendrakumarPipalia.jpg" caption="**Devendrakumar Pipalia** <br>Friday General Assistant, Arbiter" %}}
 
+{{% image height="250" src="/pics/members/Anne-MarieTumbagahan.jpg" caption="**Anne-Marie Tumbagahan** <br>Monday General Assistant" %}}
+
 <!-- {{% image height="250" src="/pics/members/ShibaniKurup.jpg" caption="**Shibani Kurup** <br>Friday General Assistant" %}} -->
 
 ### Youth Volunteers
