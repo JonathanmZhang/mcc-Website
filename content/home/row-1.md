@@ -1,9 +1,7 @@
 ---
 ---
 
-Welcome to Mississauga Chess Club's new website! We are always trying to improve the experience of our users. We are currently in the process of moving the old content to the new webpage.
-
-Welcome to Canada's biggest chess club!
+Welcome to the Mississauga Chess Club, Canada's biggest chess club!
 
 **[MCC Expands Member Experience Through New Mobile App](/member-stories/new-mobile-app)**<br>
 **[MCC Adopts New Technology to Streamline Operations 2](/member-stories/new-technology-2)**
