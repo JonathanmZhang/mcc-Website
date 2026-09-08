@@ -1,7 +1,6 @@
 ---
 ---
-
-**<h3>Welcome to the Mississauga Chess Club, Canada's biggest chess club!</h3>**
+**<h4>Welcome to the Mississauga Chess Club, Canada's biggest chess club!</h4>**
 
 **[MCC Expands Member Experience Through New Mobile App](/member-stories/new-mobile-app)**<br>
 **[MCC Adopts New Technology to Streamline Operations 2](/member-stories/new-technology-2)**
