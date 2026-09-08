@@ -7,12 +7,12 @@ The Mississauga Chess Club is the biggest chess club in Canada with players rang
 
 Whether you are a beginner or an experienced player, Mississauga Chess Club offers you a great way to meet people and have some fun. CFC membership is not required to play casual games.
 
-### Location
-Erindale United Church
-
+### Locations and Schedule
+Erindale United Church (Mon, Wed, Fri)  
 Address: 1444 Dundas Crescent, Mississauga, ON L5C 1E7
 
-Parking available at the front and back lots.
+The Erindale Academy (Tue, Thu)  
+Address: 1576 Dundas Street West, Mississauga, ON L5C 1E3
 
 ### Tiebreak Information & Bye Rules
 1) Head-to-Head

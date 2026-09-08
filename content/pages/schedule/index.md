@@ -11,6 +11,12 @@ Jump to [Adults-Wednesday](#adults---wednesday), [Youth-Monday](#youth---monday)
 ### Youth - Monday
 {{< csv-to-table data="2026Monday.csv" table_class="schedule" >}}
 
+### Adults - Tuesday
+{{< csv-to-table data="2026Tuesday.csv" table_class="schedule" >}}
+
+### Adults - Thursday
+{{< csv-to-table data="2026Thursday.csv" table_class="schedule" >}}
+
 ### Youth - Friday
 {{< csv-to-table data="2026Friday.csv" table_class="schedule" >}}
 
