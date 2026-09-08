@@ -3,7 +3,7 @@ url: /schedule/
 title: Schedule - 2026
 ---
 
-Jump to [Adults-Wednesday](#adults---wednesday), [Youth-Monday](#youth---monday), [Youth-Friday](#youth---friday).
+Jump to [Adults-Wednesday](#adults---wednesday), [Youth-Monday](#youth---monday), [Youth-Tuesday](#youth---tuesday), [Youth-Thursday](#youth---thursday), [Youth-Friday](#youth---friday).
 
 ### Adults - Wednesday
 {{< csv-to-table data="2026Wednesday.csv" table_class="schedule" >}}
@@ -11,10 +11,10 @@ Jump to [Adults-Wednesday](#adults---wednesday), [Youth-Monday](#youth---monday)
 ### Youth - Monday
 {{< csv-to-table data="2026Monday.csv" table_class="schedule" >}}
 
-### Adults - Tuesday
+### Youth - Tuesday
 {{< csv-to-table data="2026Tuesday.csv" table_class="schedule" >}}
 
-### Adults - Thursday
+### Youth - Thursday
 {{< csv-to-table data="2026Thursday.csv" table_class="schedule" >}}
 
 ### Youth - Friday
