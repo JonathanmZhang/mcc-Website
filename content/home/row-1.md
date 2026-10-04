@@ -2,8 +2,7 @@
 ---
 **<h4>Welcome to the Mississauga Chess Club, Canada's biggest chess club!</h4>**
 
-**[MCC Expands Member Experience Through New Mobile App](/member-stories/new-mobile-app)**<br>
-**[MCC Adopts New Technology to Streamline Operations 2](/member-stories/new-technology-2)**
+**[MCC Expands Through New Partnership](member-stories/MCC-Expands-Through-New-Partnership/)**
 
 **<h4>Due to space limitations, our programs are currently full. If you are interested in joining the club, please email mississaugachessclub@gmail.com to be added to the waitlist. </h4>**
 
