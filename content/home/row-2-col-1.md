@@ -14,11 +14,14 @@ If you wish to join us on Mondays, please fill out the form below:
 {{< horizontal-rule >}}
 -->
 
-**Adult Club**: 
+**Adult Club**: Erindale United Church
 <br>6:30 pm - 10:30 pm Wednesday Nights
 
-**Youth Club**:
+**Youth Club**: Erindale United Church
 <br>6:30 pm - 8:30 pm Monday and Friday Nights
+
+**Youth Club**: The Erindale Academy
+<br>6:30 pm - 8:30 pm Tuesday and Thursday Nights
 
 Registration time is between 6:30 pm and 7:00 pm. Games start at 7:15 pm. Please ensure you arrive by 7:00 pm to register your name for the night's tournament. 
 
