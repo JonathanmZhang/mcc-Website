@@ -10,6 +10,10 @@ In the future, lectured lessons will be revised with comments. For now only a fe
 Jump to [Monday and Friday Lessons](#monday-and-friday)
 [Wednesday Lessons](#wednesday)
 
+## Orientation Materials (*NEW*)
+- [Guide to OTB Chess](/docs/Guide_To_OTB_Chess_v2.pdf)
+- [Chess Notation Beginner Guide and Worksheet](/docs/Chess_Notation_Beginner_Guide_and_Worksheet_v2.2.pdf)
+
 ## Monday and Friday
 {{< csv-to-table data="2025.Monday.Friday.Lessons.csv" table_class="schedule" width="600px">}}
 

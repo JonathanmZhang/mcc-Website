@@ -6,6 +6,6 @@
 
 **<h4>Due to space limitations, our programs are currently full. If you are interested in joining the club, please email mississaugachessclub@gmail.com to be added to the waitlist. </h4>**
 
-**QUICK LINKS:** [2026 Schedule](/schedule/) [Tournament Results](/events)
+**QUICK LINKS:** [2026 Schedule](/schedule/) [Tournament Results](/events) [Orientation Materials (*NEW*)](/lessons)
 
 {{% figure src="/pics/archives/2017/may15/IMG_20170515_190416.jpg" width="500"%}}
