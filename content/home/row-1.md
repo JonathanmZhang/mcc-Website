@@ -4,7 +4,7 @@
 
 **[MCC Expands Through New Partnership](member-stories/MCC-Expands-Through-New-Partnership/)**
 
-**<h4>Due to space limitations, our programs are currently full. If you are interested in joining the club, please email mississaugachessclub@gmail.com to be added to the waitlist. </h4>**
+**<h4> New location is now open! Limited junior spots on Tuesday and Thursday — email mississaugachessclub@gmail.com to secure a try‑out. </h4>**
 
 **QUICK LINKS:** [2026 Schedule](/schedule/) [Tournament Results](/events) [Orientation Materials (*NEW*)](/lessons)
 
