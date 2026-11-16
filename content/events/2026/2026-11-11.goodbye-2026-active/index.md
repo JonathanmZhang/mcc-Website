@@ -1,6 +1,6 @@
 ---
 title: "Goodbye 2026 Active"
-slug: Goodbye 2026 Active
+slug: 2026-Goodbye-2026-Active
 date-start: 2026-11-11
 date-end: 2026-11-25
 ---

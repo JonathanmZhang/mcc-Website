@@ -1,6 +1,6 @@
 ---
-title: "Friday Junior 19"
-slug: Friday Junior 19
+title: "2026 Friday Junior 19"
+slug: 2026-Friday Junior 19
 date-start: 2026-10-30
 date-end: 2026-12-04
 ---
