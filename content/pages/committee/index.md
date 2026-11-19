@@ -67,7 +67,7 @@ title: Our Team
 
 <!--  {{% image height="250" src="/pics/members/JodyLiao.jpg" caption="**Jody Liao** <br>Monday Pairing" %}}  -->
 
-{{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Pairing" %}}
+{{% image height="250" src="/pics/members/CatherineCheung.jpg" caption="**Catherine Cheung** <br>Webmaster, Pairing <br>" %}}
 
 <!-- {{% image height="250" src="/pics/members/BlakeWang.jpg" caption="**Blake Wang** <br>Monday Pairing" %}} -->
 
