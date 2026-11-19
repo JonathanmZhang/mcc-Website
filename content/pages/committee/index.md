@@ -83,6 +83,8 @@ title: Our Team
 
 {{% image height="250" src="/pics/members/RyanHa.JPG" caption="**Ryan Ha** <br>Webmaster, Friday Pairing" %}}
 
+{{% image height="250" src="/pics/members/AhmadAl-Douri.JPG" caption="**Ahmad Al-Douri** <br>Coach of Monday & Friday Sessions" %}}
+
 {{% image height="250" src="/pics/members/AndiTong.png" caption="**Andi Tong** <br>Monday Pairing, Arbiter" %}}
 
 <!-- {{% image height="250" src="/pics/members/VincentWei.jpg" caption="**Vincent Wei** <br>Monday Coach" %}} -->
