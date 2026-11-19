@@ -47,11 +47,11 @@ title: Our Team
 
 <!-- {{% image height="250" src="/pics/members/JackieVuong.jpg" caption="**Jackie Vuong** <br>Wednesday General Assistant" %}} -->
 
-{{% image height="250" src="/pics/members/RodPolako.jpg" caption="**Rod Polako** <br>Orientation Coordinator" %}}
+{{% image height="250" src="/pics/members/RodPolako.jpg" caption="**Rod Polako** <br>Orientation Coordinator, Coach" %}}
 
 {{% image height="250" src="/pics/members/DevendrakumarPipalia.jpg" caption="**Devendrakumar Pipalia** <br>Friday General Assistant, Arbiter" %}}
 
-{{% image height="250" src="/pics/members/Anne-MarieTumbagahan.jpg" caption="**Anne-Marie Tumbagahan** <br>Monday General Assistant" %}}
+{{% image height="250" src="/pics/members/Anne-MarieTumbagahan.jpg" caption="**Anne-Marie Tumbagahan** <br>Tuesday General Assistant" %}}
 
 <!-- {{% image height="250" src="/pics/members/ShibaniKurup.jpg" caption="**Shibani Kurup** <br>Friday General Assistant" %}} -->
 
@@ -86,3 +86,7 @@ title: Our Team
 {{% image height="250" src="/pics/members/AndiTong.png" caption="**Andi Tong** <br>Monday Pairing, Arbiter" %}}
 
 <!-- {{% image height="250" src="/pics/members/VincentWei.jpg" caption="**Vincent Wei** <br>Monday Coach" %}} -->
+
+{{% image height="250" src="/pics/members/WilliamWang.jpg" caption="**William Wang** <br>Tuesday Arbiter" %}}
+
+{{% image height="250" src="/pics/members/VesalKaramiBehdani.jpg" caption="**Vesal Karami Behdani** <br>Thursday Arbiter, Coach" %}}
