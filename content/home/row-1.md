@@ -4,7 +4,7 @@
 
 **[MCC Expands Through New Partnership](member-stories/MCC-Expands-Through-New-Partnership/)**
 
-**<h4> New location is now open! Limited junior spots on Tuesday and Thursday — email mississaugachessclub@gmail.com to secure a try‑out. </h4>**
+**<h4> Monday, Wednesday, and Friday club is currently full and registration for those days is closed. We are pleased to announce that our new location is now open, with a limited number of junior spots available on Tuesdays and Thursdays. If you are interested in joining the waitlist or scheduling a tryout session, please email mississaugachessclub@gmail.com. </h4>**
 
 **QUICK LINKS:** [2026 Schedule](/schedule/) [Tournament Results](/events) [Orientation Materials (*NEW*)](/lessons)
 
