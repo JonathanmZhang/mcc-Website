@@ -1,6 +1,6 @@
 ---
 title: "2026 Tuesday Junior 1"
-slug: MCC-Tuesday-Junior-Tournament-1
+slug: 2026-Tuesday-Junior-Tournament-1
 date-start: 2026-11-03
 date-end: 2026-12-01
 ---
